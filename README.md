@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Marat
 
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me https://t.me/maratoo0
 
 <!---
